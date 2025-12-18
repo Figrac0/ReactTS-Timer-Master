@@ -2,17 +2,23 @@
 
 A modern React application demonstrating advanced data fetching techniques with TypeScript, focusing on type safety, error handling, and clean architecture.
 
-<p align="center">
-  <img src="https://github.com/Figrac0/ReactTS-Timer_Data-Fetcher/blob/DataFetching/src/assets/1.png" width="550"/>
-</p
+---
+
+## 📸 Project Preview
 
 <p align="center">
-  <img src="https://github.com/Figrac0/ReactTS-Timer_Data-Fetcher/blob/DataFetching/src/assets/2.png" width="550"/>
-</p
+  <img src="https://github.com/Figrac0/ReactTS-Timer_Data-Fetcher/blob/DataFetching/src/assets/1.png" width="450"/>
+</p>
 
 <p align="center">
-  <img src="https://github.com/Figrac0/ReactTS-Timer_Data-Fetcher/blob/DataFetching/src/assets/3.png" width="550"/>
-</p
+  <img src="https://github.com/Figrac0/ReactTS-Timer_Data-Fetcher/blob/DataFetching/src/assets/2.png" width="450"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Figrac0/ReactTS-Timer_Data-Fetcher/blob/DataFetching/src/assets/3.png" width="450"/>
+</p>
+
+---
 
 ## 🎯 **TypeScript Highlights**
 
