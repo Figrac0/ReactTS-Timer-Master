@@ -8,7 +8,7 @@ A sophisticated timer management application built with React and TypeScript, fe
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="https://github.com/Figrac0/ReactTS-Timer-aster/blob/main/public/1.png" width="450"/>
+  <img src="https://github.com/Figrac0/ReactTS-Timer-aster/blob/main/public/1.png" width="550" height = "600"/>
 </p>
 
 ## ✨ Features
