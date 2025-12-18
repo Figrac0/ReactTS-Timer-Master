@@ -2,9 +2,14 @@
 
 A sophisticated timer management application built with React and TypeScript, featuring advanced state management and modern UI design.
 
-![ReactTS Timer Master](https://img.shields.io/badge/React-18-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![ReactTS Timer Master](https://img.shields.io/badge/React-18.2.0-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0.2-blue)
+
+## 📸 Project Preview
+
+<p align="center">
+  <img src="https://github.com/Figrac0/ReactTS-Timer-aster/blob/main/public/1.png" width="450"/>
+</p>
 
 ## ✨ Features
 
